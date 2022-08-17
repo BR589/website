@@ -1,0 +1,14 @@
+.menu{
+    background-color: blanchedalmond;
+    margin: 0;
+}
+body{
+    margin: 0;
+}
+.home{
+   background-image: url(./images.jpg);
+}
+ul li{
+    margin: 0;
+    display:inline;
+}
